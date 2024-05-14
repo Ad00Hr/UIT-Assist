@@ -1,0 +1,120 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Bonjour",
+        "Comment ça va",
+        "Y a-t-il quelqu'un ?",
+        "Salut",
+        "Hola",
+        "Bonjour",
+        "Bonne journée"
+      ],
+      "responses": [
+        "Bonjour, merci de demander",
+        "Content de vous revoir",
+        "Salut, comment puis-je vous aider ?"
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Au revoir",
+        "À plus tard",
+        "Au revoir",
+        "C'était agréable de discuter avec vous, au revoir",
+        "À la prochaine"
+      ],
+      "responses": [
+        "Au revoir !",
+        "Bonne journée",
+        "Au revoir ! Revenez bientôt."
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Merci",
+        "Merci beaucoup",
+        "C'est utile",
+        "Génial, merci",
+        "Merci de m'avoir aidé"
+      ],
+      "responses": [
+        "Ravi de pouvoir aider !",
+        "De rien !",
+        "Avec plaisir"
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "noanswer",
+      "patterns": [],
+      "responses": [
+        "Désolé, je ne peux pas vous comprendre",
+        "Veuillez me donner plus d'informations",
+        "Je ne suis pas sûr de comprendre"
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "options",
+      "patterns": [
+        "How you could help me?",
+        "What you can do?",
+        "What help you provide?",
+        "How you can be helpful?",
+        "What support is offered"
+      ],
+      "responses": [
+        "I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies",
+        "Offering support for Adverse drug reaction, Blood pressure, Hospitals and Pharmacies"
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "bot_challenge",
+      "patterns": [
+        "es-tu un robot ?",
+        "es-tu humain ?",
+        "est-ce que je parle à un robot ?",
+        "est-ce que je parle à un humain ?"
+      ],
+      "responses": [
+        "Je suis UIT Assist, créé par des étudiants de l'IAID."
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "uni_contact",
+      "patterns": [
+        "ecomment contacter la faculté ?",
+        "pouvez-vous me fournir les contacts de la faculté ?",
+        "coordonnées de la faculté ?",
+        "comment parler à l'administration ?"
+      ],
+      "responses": [
+        "email : contact.fsk@uit.ac.ma",
+        "tel : (+212) 5 37 32 94 00"
+      ],
+      "context": [
+        ""
+      ]
+    }
+  ]
+}
