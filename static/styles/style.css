@@ -19,8 +19,8 @@
   }
   
   body {
-    display: flex;
-    justify-content: center;
+    /* display: */
+    justify-content:left;
     align-items: center;
     height: 100vh;
     background-image: var(--body-bg);
