@@ -71,15 +71,15 @@
     {
       "tag": "options",
       "patterns": [
-        "How you could help me?",
-        "What you can do?",
-        "What help you provide?",
-        "How you can be helpful?",
-        "What support is offered"
+        "Comment pourriez-vous m'aider avec la faculté des sciences Ibn Tofail à Kénitra ?",
+        "Qu'est-ce que vous pouvez faire pour m'aider avec la faculté des sciences Ibn Tofail à Kénitra ?",
+        "Quelle aide pouvez-vous fournir concernant la faculté des sciences Ibn Tofail à Kénitra ?",
+        "Comment pouvez-vous être utile pour répondre à mes questions sur la faculté des sciences Ibn Tofail à Kénitra ?",
+        "Quel soutien est offert pour les étudiants de la faculté des sciences Ibn Tofail à Kénitra ?"
       ],
       "responses": [
-        "I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies",
-        "Offering support for Adverse drug reaction, Blood pressure, Hospitals and Pharmacies"
+        "Je peux répondre à vos questions sur la faculté des sciences Ibn Tofail à Kénitra, y compris les programmes d'études, les départements, les installations, les services aux étudiants, etc.",
+        "Je suis là pour vous aider avec tout ce que vous voulez savoir sur la faculté des sciences Ibn Tofail à Kénitra. N'hésitez pas à me poser vos questions !"
       ],
       "context": [
         ""
