@@ -19,14 +19,14 @@
     box-sizing: inherit;
   }
   
-  /* body {
+  body {
     display:flex;
     justify-content:center;
     align-items: center;
     height: 100vh;
     background-image: var(--body-bg);
     font-family: Helvetica, sans-serif;
-  } */
+  }
   
   .msger {
     display: flex;
@@ -144,7 +144,7 @@
     transition: background 0.23s;
   }
   .msger-send-btn:hover {
-    background: rgb(0, 180, 50);
+    background: rgb(66, 102, 223);
   }
   
   .msger-chat {
